@@ -1,0 +1,13 @@
+.clock-container {
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.clock-container h2 {
+    font-size: 24px;
+    color: #333;
+}
